@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eef2f7;
+}
+
+header {
+    background-color: #1db954;
+    background-image: linear-gradient(#1db954,green);
+    padding: 20px;
+    text-align: center;
+}
+
+header .logo {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.8em;
+    font-weight: 700;
+}
+
+.content {
+    padding: 50px;
+}
+
+.content h2 {
+    color: #1db954;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.content p {
+    color: #444;
+    font-size: 1.2em;
+}

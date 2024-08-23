@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+section {
+    margin-top: 20px;
+}
+
+h3 {
+    color: #dc3545;
+}
+
+p {
+    font-size: 1.1rem;
+}
